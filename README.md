@@ -5,3 +5,4 @@ This repo contains a few questions an challenges I have faced on several intervi
 #### JavaScript
 - JavaScript theorical questions
 - [JavaScript challenges](js-challenges.md)
+- [JavaScript tricky questions](js-tricky-questions.md)
