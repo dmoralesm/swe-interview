@@ -1,6 +1,6 @@
-# JavaScript Tricky Questions
+# JavaScript Tricky Questions
 
-## Question 1
+## Question 1
 
 What is the ouput of next block code execution?
 
