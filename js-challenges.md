@@ -29,5 +29,7 @@ function staircase(steps) {
 }
 ```
 
+Try it online: https://repl.it/@dmoralesm/staircase
+
 
 
